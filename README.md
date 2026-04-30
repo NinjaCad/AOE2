@@ -1,4 +1,4 @@
-# 🏰 Age of Empires II Collection
+# 🏰 Age of Empires II: Forgotten Empires
 
 A curated bundle of classic **Age of Empires II** content—bringing together the original experience, its iconic expansion, and a legendary community mod.
 
