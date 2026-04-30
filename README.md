@@ -26,13 +26,6 @@ https://www.forgottenempires.net/install
 
 ---
 
-## 📁 Side Content
-
-* **Age of Empires II: HD Edition (2013 / Retired)**
-  Included as a `.rar` archive for legacy support, archival purposes, or optional use.
-
----
-
 ## ⚙️ Setup Instructions
 
 1. 📂 Move the folder named **"Microsoft Games"** into:
@@ -58,6 +51,5 @@ https://www.forgottenempires.net/install
 ## ⚙️ Additional Notes
 
 * ✅ **Forgotten Empires is already preinstalled** with the base game and **The Conquerors** expansion.
-* 📂 The `fe_update` file is included and serves as the installer/patch tool for **Forgotten Empires**.
 * 🌐 You can reference the official guide above if manual setup or troubleshooting is needed.
 * 🖥️ Some components may require compatibility settings depending on your system (especially on newer versions of Windows).
